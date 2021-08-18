@@ -1,0 +1,1 @@
+bldall Space_invader
